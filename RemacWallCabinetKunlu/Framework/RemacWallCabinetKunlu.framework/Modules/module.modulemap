@@ -1,0 +1,6 @@
+framework module RemacWallCabinetKunlu {
+  umbrella header "RemacWallCabinetKunlu.h"
+
+  export *
+  module * { export * }
+}
